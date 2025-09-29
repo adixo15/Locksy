@@ -57,6 +57,6 @@ Please **only use dummy/sample data** until proper security is added.
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/locksy.git
+git clone https://github.com/adixo15/locksy.git
 cd locksy
 
